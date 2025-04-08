@@ -12,6 +12,13 @@ Script to perform Windows Update initialized by batch file
 ## Inspiration
 Inpired by [Windows Update Automation Script](https://github.com/TychoLoke/Windows-Update-Script) and improved, license preserved
 
+## Instructions
+- This script is intended to be executed by administrators and may ask for privileged access.
+- Download project (here)
+- Extract the files
+- Execute `Run-WindowsUpdate.bat`
+- The script will generate a `.log` file on script folder
+
 ---
 
 ## 🧑‍💻 Consulting and technical support

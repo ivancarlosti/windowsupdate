@@ -10,7 +10,7 @@ Script to perform Windows Update initialized by batch file
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-1.4-4baaaa)](https://github.com/ivancarlosti/windowsupdate/tree/main?tab=coc-ov-file)  
 
 ## Inspiration
-Inpired by https://github.com/TychoLoke/Windows-Update-Script and improved, license preserved
+Inpired by [Windows Update Automation Script](https://github.com/TychoLoke/Windows-Update-Script) and improved, license preserved
 
 ---
 

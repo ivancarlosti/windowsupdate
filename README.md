@@ -14,7 +14,7 @@ Inpired by [Windows Update Automation Script](https://github.com/TychoLoke/Windo
 
 ## Instructions
 - This script is intended to be executed by administrators and may ask for privileged access.
-- Download project (here)
+- Download this repository ([here](https://github.com/ivancarlosti/windowsupdate/zipball/master))
 - Extract the files
 - Execute `Run-WindowsUpdate.bat`
 - The script will generate a `.log` file on script folder

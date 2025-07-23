@@ -3,12 +3,14 @@ Script to perform Windows Update initialized by batch file
 
 <!-- buttons -->
 [![Stars](https://img.shields.io/github/stars/ivancarlosti/windowsupdate?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/windowsupdate/stargazers)
+[![Watchers](https://img.shields.io/github/watchers/ivancarlosti/windowsupdate?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivancarlosti)
+[![Forks](https://img.shields.io/github/forks/ivancarlosti/windowsupdate?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivancarlosti)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/windowsupdate?label=Last%20Commit)](https://github.com/ivancarlosti/windowsupdate/commits)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/windowsupdate?label=Activity)](https://github.com/ivancarlosti/windowsupdate/pulse)
-[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/windowsupdate?label=Issues&color=orange)](https://github.com/ivancarlosti/windowsupdate/issues)  
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/windowsupdate?label=Activity)](https://github.com/ivancarlosti/windowsupdate/pulse)  
+[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/windowsupdate?label=Issues&color=orange)](https://github.com/ivancarlosti/windowsupdate/issues)
 [![License](https://img.shields.io/github/license/ivancarlosti/windowsupdate?label=License)](LICENSE)
 [![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/windowsupdate/security)
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-1.4-4baaaa)](https://github.com/ivancarlosti/windowsupdate/tree/main?tab=coc-ov-file)  
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/windowsupdate?tab=coc-ov-file)
 <!-- endbuttons -->
 
 ## Inspiration
@@ -40,7 +42,7 @@ Inpired by [Windows Update Automation Script](https://github.com/TychoLoke/Windo
 [![Threads](https://img.shields.io/badge/Threads-@ivancarlos-808080)](https://threads.net/@ivancarlos)
 [![X](https://img.shields.io/badge/X-@ivancarlos-000000)](https://x.com/ivancarlos)  
 [![Discord](https://img.shields.io/badge/Discord-@ivancarlos.me-5865F2)](https://discord.com/users/ivancarlos.me)
-[![Signal](https://img.shields.io/badge/Signal-@ivancarlos.01-2592E9)](https://icc.gg/-signal)
+[![Signal](https://img.shields.io/badge/Signal-@ivancarlos.01-2592E9)](https://icc.gg/.signal)
 [![Telegram](https://img.shields.io/badge/Telegram-@ivancarlos-26A5E4)](https://t.me/ivancarlos)  
 [![Website](https://img.shields.io/badge/Website-ivancarlos.me-FF6B6B)](https://ivancarlos.me)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors&color=ffc0cb)][sponsor]

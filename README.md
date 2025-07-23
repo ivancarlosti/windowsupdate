@@ -1,6 +1,7 @@
 # Windows Update script
 Script to perform Windows Update initialized by batch file
 
+<!-- buttons -->
 [![Stars](https://img.shields.io/github/stars/ivancarlosti/windowsupdate?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/windowsupdate/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/windowsupdate?label=Last%20Commit)](https://github.com/ivancarlosti/windowsupdate/commits)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/windowsupdate?label=Activity)](https://github.com/ivancarlosti/windowsupdate/pulse)
@@ -8,6 +9,7 @@ Script to perform Windows Update initialized by batch file
 [![License](https://img.shields.io/github/license/ivancarlosti/windowsupdate?label=License)](LICENSE)
 [![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/windowsupdate/security)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-1.4-4baaaa)](https://github.com/ivancarlosti/windowsupdate/tree/main?tab=coc-ov-file)  
+<!-- endbuttons -->
 
 ## Inspiration
 Inpired by [Windows Update Automation Script](https://github.com/TychoLoke/Windows-Update-Script) and improved, license preserved
@@ -19,6 +21,7 @@ Inpired by [Windows Update Automation Script](https://github.com/TychoLoke/Windo
 - Execute `Run-WindowsUpdate.bat`
 - The script will generate a `.log` file on script folder
 
+<!-- footer -->
 ---
 
 ## 🧑‍💻 Consulting and technical support

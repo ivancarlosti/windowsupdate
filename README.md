@@ -1,6 +1,10 @@
 # Windows Update script
 Script to perform Windows Update initialized by batch file
 
+<!-- buttons -->
+
+<!-- endbuttons -->
+
 ## Inspiration
 Inpired by [Windows Update Automation Script](https://github.com/TychoLoke/Windows-Update-Script) and improved, license preserved
 

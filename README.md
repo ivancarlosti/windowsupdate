@@ -2,18 +2,19 @@
 Script to perform Windows Update initialized by batch file
 
 <!-- buttons -->
-[![Stars](https://img.shields.io/github/stars/ivancarlosti/awssesconverter?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/awssesconverter/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/ivancarlosti/awssesconverter?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivancarlosti)
-[![Forks](https://img.shields.io/github/forks/ivancarlosti/awssesconverter?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivancarlosti)
-[![Downloads](https://img.shields.io/github/downloads/ivancarlosti/awssesconverter/total?label=Downloads&color=success)](https://github.com/ivancarlosti/awssesconverter/releases)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/awssesconverter?label=Activity)](https://github.com/ivancarlosti/awssesconverter/pulse)
-[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/awssesconverter?label=Issues&color=orange)](https://github.com/ivancarlosti/awssesconverter/issues)
-[![License](https://img.shields.io/github/license/ivancarlosti/awssesconverter?label=License)](LICENSE)  
-[![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/awssesconverter?label=Last%20Commit)](https://github.com/ivancarlosti/awssesconverter/commits)
-[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/awssesconverter/security)
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/awssesconverter?tab=coc-ov-file)
+[![Stars](https://img.shields.io/github/stars/ivancarlosti/windowsupdate?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/windowsupdate/stargazers)
+[![Watchers](https://img.shields.io/github/watchers/ivancarlosti/windowsupdate?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivancarlosti)
+[![Forks](https://img.shields.io/github/forks/ivancarlosti/windowsupdate?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivancarlosti)
+[![Downloads](https://img.shields.io/github/downloads/ivancarlosti/windowsupdate/total?label=Downloads&color=success)](https://github.com/ivancarlosti/windowsupdate/releases)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/windowsupdate?label=Activity)](https://github.com/ivancarlosti/windowsupdate/pulse)  
+[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/windowsupdate?label=Issues&color=orange)](https://github.com/ivancarlosti/windowsupdate/issues)
+[![License](https://img.shields.io/github/license/ivancarlosti/windowsupdate?label=License)](LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/windowsupdate?label=Last%20Commit)](https://github.com/ivancarlosti/windowsupdate/commits)
+[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/windowsupdate/security)  
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/windowsupdate?tab=coc-ov-file)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors&color=ffc0cb)][sponsor]
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00)][buymeacoffee]
+[![Patreon](https://img.shields.io/badge/Patreon-f96854)][patreon]
 <!-- endbuttons -->
 
 ## Inspiration
@@ -47,5 +48,6 @@ If you found this project helpful, consider [**buying me a coffee**][buymeacoffe
 [funding]: https://docs.github.com/en/articles/displaying-a-sponsor-button-in-your-repository
 [ivancarlos]: https://ivancarlos.me
 [buymeacoffee]: https://buymeacoffee.com/ivancarlos
+[patreon]: https://www.patreon.com/ivancarlos
 [paypal]: https://icc.gg/donate
 [sponsor]: https://github.com/sponsors/ivancarlosti
